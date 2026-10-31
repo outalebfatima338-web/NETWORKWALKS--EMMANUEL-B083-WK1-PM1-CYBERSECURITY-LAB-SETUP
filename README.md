@@ -83,7 +83,7 @@ It can be used for activities such as:
 | 🔄 Verify snapshot | Restore snapshot and run `ip a` | Baseline configuration restored |
 
 
-##💡 What I Learned
+## 💡 What I Learned
 Through this project, I learned how to create and configure a virtual environment for cybersecurity practice.
 
 The most important concepts I learned include:
