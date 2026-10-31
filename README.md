@@ -7,7 +7,7 @@ The purpose of this lab is to create a controlled environment where cybersecurit
 
 The lab is configured on a private virtual network so that additional machines can be added later and used as targets for authorized security testing.
 
- ##Objectives
+ ## Objectives
 
 -The main objectives of this project are to:
 
@@ -83,7 +83,7 @@ It can be used for activities such as:
 | 🔄 Verify snapshot | Restore snapshot and run `ip a` | Baseline configuration restored |
 
 
-💡 What I Learned
+##💡 What I Learned
 Through this project, I learned how to create and configure a virtual environment for cybersecurity practice.
 
 The most important concepts I learned include:
