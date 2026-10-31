@@ -7,7 +7,7 @@ The purpose of this lab is to create a controlled environment where cybersecurit
 
 The lab is configured on a private virtual network so that additional machines can be added later and used as targets for authorized security testing.
 
- Objectives
+ ##Objectives
 
 -The main objectives of this project are to:
 
@@ -30,26 +30,30 @@ The lab is configured on a private virtual network so that additional machines c
 -Document the complete setup process.
 
 
-🛠️ Tools and Technologies
+## 🛠️ Tools and Technologies
 
--VirtualBox 7.2
--Kali Linux 2026.2
--Windows 11
--NAT Network
--Linux Terminal
+The following tools and technologies are used in this project:
 
-🛡️ Purpose of the Lab
+- 🖥️ **VirtualBox:** Version 7.2
+- 🐉 **Kali Linux:** Version 2026.2
+- 💻 **Host OS:** Windows 11
+- 🌐 **Network:** NAT Network
+- 💻 **Terminal:** Linux Terminal
+
+
+## 🛡️ Purpose of the Lab
+
 The lab provides an isolated and controlled environment for cybersecurity learning and authorized security testing.
 
 It can be used for activities such as:
 
-Network reconnaissance
--Port scanning
--Vulnerability assessment
--Packet analysis
--Web security testing
--Exploitation practice
--Security-tool experimentation
+- 🔎 Network reconnaissance
+- 🌐 Port scanning
+- 🛡️ Vulnerability assessment
+- 📡 Packet analysis
+- 🔐 Web security testing
+- 🧪 Security-tool experimentation
+- 📚 Learning cybersecurity concepts
 
  ⚙️ Lab Configuration
 
